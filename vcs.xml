@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/faiqdzulfikar/KasirSuper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://agusindras@bitbucket.org/agusindras/tvku.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\" />
+    <option name="cloneParentDir" value="E:\DATA\UDINUS\KKI\ResideMenu" />
   </component>
 </application>
